@@ -1,0 +1,128 @@
+{
+  "songs": [
+    {
+      "_id": "s1",
+      "title": "Whatever...",
+      "artist": "Imagine Dragons",
+      "coverUrl": "https://placehold.co/300x300/png?text=Whatever"
+    },
+    {
+      "_id": "s2",
+      "title": "Skyfall",
+      "artist": "Adele",
+      "coverUrl": "https://image-cdn.nct.vn/song/2021/10/15/e/3/9/a/1634283393098_300.jpg"
+    },
+    {
+      "_id": "s5",
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+    },
+    {
+      "_id": "s6",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+    },
+    {
+      "_id": "s7",
+      "title": "Rumour Has It",
+      "artist": "Adele",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+    },
+    {
+      "_id": "s8",
+      "title": "Turning Tables",
+      "artist": "Adele",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+    },
+    {
+      "_id": "s9",
+      "title": "Don't You Remember",
+      "artist": "Adele",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+    },
+    {
+      "_id": "s10",
+      "title": "Set Fire to the Rain",
+      "artist": "Adele",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+    },
+    {
+      "_id": "s11",
+      "title": "He Won't Go",
+      "artist": "Adele",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+    },
+    {
+      "_id": "s12",
+      "title": "I'll Be Waiting",
+      "artist": "Adele",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+    },
+    {
+      "_id": "s13",
+      "title": "One and Only",
+      "artist": "Adele",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+    },
+    {
+      "_id": "s14",
+      "title": "Lovesong",
+      "artist": "Adele",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+    },
+    {
+      "_id": "s15",
+      "title": "Take It All",
+      "artist": "Adele",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+    },
+    {
+      "_id": "s3",
+      "title": "Superman",
+      "artist": "Eminem",
+      "coverUrl": "https://placehold.co/300x300/png?text=Superman"
+    },
+    {
+      "_id": "s4",
+      "title": "Shape Of You",
+      "artist": "Ed Sheeran",
+      "coverUrl": "https://placehold.co/300x300/png?text=Shape+Of+You"
+    }
+  ],
+  "artists": [
+    {
+      "_id": "a1",
+      "name": "Eminem",
+      "image_url": "https://placehold.co/120x120/png?text=Eminem",
+      "coverUrl": "https://placehold.co/300x300/png?text=Shape+Of+You"
+    },
+    {
+      "_id": "a2",
+      "name": "Lana Del Rey",
+      "image_url": "https://placehold.co/120x120/png?text=Lana",
+      "coverUrl": "https://placehold.co/300x300/png?text=Shape+Of+You"
+    },
+    {
+      "_id": "a3",
+      "name": "Adele",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Adele_2016.jpg/800px-Adele_2016.jpg",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+    }
+  ],
+  "albums": [
+    {
+      "_id": "al1",
+      "title": "Adele 21",
+      "artist": "Adele",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+    },
+    {
+      "_id": "al2",
+      "title": "Scorpion",
+      "artist": "Drake",
+      "coverUrl": "https://placehold.co/300x300/png?text=Scorpion"
+    }
+  ]
+}
