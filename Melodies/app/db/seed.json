@@ -10,73 +10,85 @@
       "_id": "s2",
       "title": "Skyfall",
       "artist": "Adele",
-      "coverUrl": "https://image-cdn.nct.vn/song/2021/10/15/e/3/9/a/1634283393098_300.jpg"
+      "coverUrl": "https://image-cdn.nct.vn/song/2021/10/15/e/3/9/a/1634283393098_300.jpg",
+      "audioUrl": "skyfall"
     },
     {
       "_id": "s5",
       "title": "Rolling in the Deep",
       "artist": "Adele",
-      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png",
+      "audioUrl": "rollinginthedeep"
     },
     {
       "_id": "s6",
       "title": "Someone Like You",
       "artist": "Adele",
-      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png",
+      "audioUrl": "someonelikeyou"
     },
     {
       "_id": "s7",
       "title": "Rumour Has It",
       "artist": "Adele",
-      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png",
+      "audioUrl": "rumourhasit"
     },
     {
       "_id": "s8",
       "title": "Turning Tables",
       "artist": "Adele",
-      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png",
+      "audioUrl": "turningtables"
     },
     {
       "_id": "s9",
       "title": "Don't You Remember",
       "artist": "Adele",
-      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png",
+      "audioUrl": "dontyouremember"
     },
     {
       "_id": "s10",
       "title": "Set Fire to the Rain",
       "artist": "Adele",
-      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png",
+      "audioUrl": "setfiretotherain"
     },
     {
       "_id": "s11",
       "title": "He Won't Go",
       "artist": "Adele",
-      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png",
+      "audioUrl": "hewontgo"
     },
     {
       "_id": "s12",
       "title": "I'll Be Waiting",
       "artist": "Adele",
-      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png",
+      "audioUrl": "illbewaiting"
     },
     {
       "_id": "s13",
       "title": "One and Only",
       "artist": "Adele",
-      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png",
+      "audioUrl": "oneandonly"
     },
     {
       "_id": "s14",
       "title": "Lovesong",
       "artist": "Adele",
-      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png",
+      "audioUrl": "lovesong"
     },
     {
       "_id": "s15",
       "title": "Take It All",
       "artist": "Adele",
-      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png",
+      "audioUrl": "takeitall"
     },
     {
       "_id": "s3",
